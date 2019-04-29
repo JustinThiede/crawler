@@ -1,5 +1,5 @@
 # Crawler
-A crawler to get all links of a page. It only crawls the targets domain. 
+A crawler to get all a tags of a page. It only crawls the targets domain. 
 If you crawl example.com which has a link to whatever.com, whatever.com will not be crawled.
 
 ## Instantiation
