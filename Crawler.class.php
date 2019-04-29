@@ -10,9 +10,9 @@
  *
  * @category   crawler
  * @package    htagetter
- * @author     Original Author <justin.thiede@visions.ch>
+ * @author     Original Author <justin.inw@hotmail.com>
  * @author     Another Author <>
- * @copyright  visions.ch GmbH
+ * @copyright  Justin Thiede
  * @license    http://creativecommons.org/licenses/by-nc-sa/3.0/
  */
 
